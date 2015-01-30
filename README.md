@@ -1,8 +1,9 @@
 Resfull Hello Word API
 ======================
 
-<img height="250" align="left" src=" http://go-restfull-gae-webapp.appspot.com/images/aegopher.jpg">
-<img height="250" align="left" src=" http://go-restfull-gae-webapp.appspot.com/images/GorillaToolkit.jpg">
+<img height="250" align="left" src="http://go-restfull-gae-webapp.appspot.com/images/aegopher.jpg">
+
+<img height="250" align="left" src="http://go-restfull-gae-webapp.appspot.com/images/GorillaToolkit.jpg">
 
  - GO (with mux)
  - Appengine + DataStore
