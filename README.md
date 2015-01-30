@@ -4,9 +4,9 @@ Resfull Hello Word API
  - Appengine + DataStore
 
 
-<img height="250" align="left" src="http://go-restfull-gae-webapp.appspot.com/images/aegopher.jpg">
+<img height="250" src="http://go-restfull-gae-webapp.appspot.com/images/aegopher.jpg">
 
-<img height="250" align="left" src="http://go-restfull-gae-webapp.appspot.com/images/GorillaToolkit.jpg">
+<img height="250" src="http://go-restfull-gae-webapp.appspot.com/images/GorillaToolkit.jpg">
 
 
 API :
